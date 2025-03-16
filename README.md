@@ -1,1 +1,1 @@
-# gitads-waiting-list
+# ga-waiting-list
